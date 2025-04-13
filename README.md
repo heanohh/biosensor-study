@@ -12,4 +12,4 @@ I read about various biosensors' journals and analyzed and questioned about them
 ESPECIALLY about drug delivery, I read various journals, sorted them into four parts(nanoparticle, natural, robotics, in-vitro), and wrote our own REVIEW JOURNAL PAPER.(Unfortunately not published..) >> [Overview of Drug Delivery Systems _ a weapon against disease [Review].pdf](https://github.com/user-attachments/files/19723284/Overview.of.Drug.Delivery.Systems._.a.weapon.against.disease.Review.pdf)
 </br>
 </br>
-SPARK is now one of the biggest biology clubs among Korean University students.. and I am a one of the found members of it.  
+SPARK is now one of the biggest biology clubs among Korean University students.. and I am the one of the found members of it.  
